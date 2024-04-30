@@ -1,0 +1,32 @@
+* {
+    padding: 10px;
+    margin: 10px;
+   
+}
+.outerbox {
+    color: rgb(6, 0, 11);
+    padding: 10px;
+    background:rgb(226, 80, 7);
+    width: 80%;
+    height: 60%px;
+}
+.boxone {
+    color: rgb(237, 236, 243);
+    width: 96%;
+    height: 80%;
+    padding: 10px;
+    background: #012b0a;
+    font-size: 20px;
+    margin: 5px;
+
+}
+
+.innerbox {
+    background: rgb(53, 224, 44);
+    border-color: black;
+    padding: 4px;
+}
+.border {
+    background-color: aliceblue;
+    padding: 1px;
+}
